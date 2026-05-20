@@ -1,0 +1,7 @@
+
+# Unity builds
+PC/
+*.apk
+*.exe
+*.resS
+*.assets
