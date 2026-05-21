@@ -13,3 +13,16 @@
 *.slnx
 *[Bb]ackUpThisFolder*/
 *.apk
+
+# Unity project files
+Assets/
+Packages/
+ProjectSettings/
+Library/
+Temp/
+UserSettings/
+.vs/
+.utmp/
+*.csproj
+*.sln
+*.slnx
