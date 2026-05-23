@@ -15,10 +15,10 @@
 *[Bb]ackUpThisFolder*/
 
 # Готовые сборки (НЕ храним в Git)
-PC_version/
+
 PC_version.rar
 PC_version.zip
-*.apk
+
 
 # Остальное игнорируем
 [Dd]esktop.ini
@@ -29,4 +29,6 @@ PC_version.zip
 *.suo
 *.user
 *.unityproj
-*.booproj
+*.booproj*.assets.resS
+PC_version/VKAZINO_Data/
+Mobile_version/*.apk
