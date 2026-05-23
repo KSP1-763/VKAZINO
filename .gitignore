@@ -1,28 +1,32 @@
-
 # Unity generated files
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
+[Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 [.]vs/
+[.]vsconfig
 [.]utmp/
 *.csproj
 *.sln
 *.slnx
 *[Bb]ackUpThisFolder*/
+
+# Готовые сборки (НЕ храним в Git)
+PC_version/
+PC_version.rar
+PC_version.zip
 *.apk
 
-# Unity project files
-Assets/
-Packages/
-ProjectSettings/
-Library/
-Temp/
-UserSettings/
-.vs/
-.utmp/
-*.csproj
-*.sln
-*.slnx
+# Остальное игнорируем
+[Dd]esktop.ini
+*.tmp
+*.log
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
