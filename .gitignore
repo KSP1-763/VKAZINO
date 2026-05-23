@@ -32,3 +32,6 @@ PC_version.zip
 *.booproj*.assets.resS
 PC_version/VKAZINO_Data/
 Mobile_version/*.apk
+*.assets.resS
+PC_version/VKAZINO_Data/
+Mobile_version/*.apk
