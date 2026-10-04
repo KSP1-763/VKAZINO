@@ -1,1 +1,1 @@
-Зайти в Releases и выбрать Mobile и скачать APK
+Зайти в Releases и выбрать Mobile и скачат
